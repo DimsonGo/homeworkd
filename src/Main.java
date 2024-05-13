@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //дз сделано
         System.out.println();
         System.out.println("Задача 1");
         int[] payments = {12_567, 43_321, 21_000, 56_550, 45_000};
